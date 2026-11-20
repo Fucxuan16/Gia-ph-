@@ -17,9 +17,6 @@ Nep-Nha-Project/
 └── wrangler.jsonc     Cấu hình Cloudflare Workers và D1
 ```
 
-## Đưa mã nguồn lên GitHub
-
-Tạo một repository rồi tải các tệp và thư mục bên trong `Nep-Nha-Project` lên thư mục gốc của repository. `README.md` và `package.json` nên nằm ngay ở thư mục gốc. Giữ cả `.gitignore` khi đưa dự án lên GitHub. GitHub lưu mã nguồn, còn Cloudflare Workers và D1 chạy website có dữ liệu dùng chung.
 
 ## Chạy trên máy
 
