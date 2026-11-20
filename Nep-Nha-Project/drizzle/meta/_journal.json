@@ -1,0 +1,20 @@
+{
+  "version": "7",
+  "dialect": "sqlite",
+  "entries": [
+    {
+      "idx": 0,
+      "version": "6",
+      "when": 1795189221302,
+      "tag": "0000_family_tree",
+      "breakpoints": true
+    },
+    {
+      "idx": 1,
+      "version": "6",
+      "when": 1795189915944,
+      "tag": "0001_admin_access",
+      "breakpoints": true
+    }
+  ]
+}
